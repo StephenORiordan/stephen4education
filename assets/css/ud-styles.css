@@ -832,6 +832,7 @@ p {
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .ud-about-content-wrapper {
     padding: 50px;
+    width: 100%;
   }
 }
 
@@ -878,6 +879,7 @@ p {
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
   .ud-about-image {
     text-align: center;
+    padding-top: 20px;
   }
 }
 
