@@ -515,9 +515,6 @@ p {
     padding-top: 160px;
 
   }
-  .ud-hero img {
-      display: none;
-  }
 }
 
 @media (max-width: 767px) {
